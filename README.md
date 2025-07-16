@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kal-el
 - 👀 I’m interested in fantasy games, coding, raspberry pi projects, and other tech stuff.
-- 🌱 I’m currently learning python.
-- 📫 How to reach me: discord: kalelium
+- 🌱 I’m currently learning python and javascript.
+- 📫 How to reach me: baptistekalel@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
